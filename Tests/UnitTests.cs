@@ -106,9 +106,7 @@ namespace TravisCILab
         [Test]
         public void Power_ValidGreen()
         {
-            //Intentionally made this one fail
-            Assert.AreEqual(10, Program.Power("1", "2"));
-
+            Assert.AreEqual(1, Program.Power("1", "2"));
             Assert.AreEqual(27, Program.Power("3", "3"));
             Assert.AreEqual(25, Program.Power("5", "2"));
         }
