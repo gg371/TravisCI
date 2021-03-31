@@ -1,5 +1,4 @@
-Original Master: [![Build Status](https://travis-ci.org/dteske25/TravisCI.svg?branch=master)](https://travis-ci.org/dteske25/TravisCI)
-Forked Master: [![Build Status](https://travis-ci.com/gg371/TravisCI.svg?branch=master)](https://travis-ci.com/gg371/TravisCI)
+[![Build Status](https://travis-ci.com/gg371/TravisCI.svg?branch=master)](https://travis-ci.com/gg371/TravisCI)
 
 # Travis CI Lab
 We are going to be setting up continuous integration today on a sample project. 
